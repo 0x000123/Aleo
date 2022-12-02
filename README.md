@@ -4,7 +4,7 @@
 
 ### Install Node
 ```
-wget -O aleo.sh https://raw.githubusercontent.com/bent0000/Aleo/main/aleo.sh && chmod +x aleo.sh && ./aleo.sh
+wget -O aleo.sh https://raw.githubusercontent.com/0x000123/Aleo/main/aleo.sh && chmod +x aleo.sh && ./aleo.sh
 ```
 
 ### Runnig Node
